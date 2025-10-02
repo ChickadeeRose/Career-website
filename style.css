@@ -1,1 +1,29 @@
+header{
+height: 100px;
+width: 1000px;
+background-color: #793a8b;
+color: #fff;
+}
+nav{
+float: left;
+height: 500px;
+width: 100px;
+background-color: #b148cf;
+border-bottom:#260c2e;
+border-right:#260c2e;
+border-top:#260c2e;
+border-style:groove;
+border-width: 10 10 10 0;
+}
+section{
 
+}
+aside{
+
+}
+article{
+
+}
+footer{
+
+}
